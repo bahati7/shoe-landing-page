@@ -6,3 +6,5 @@
 4. Includes a dark and light mode.
 5. Compatible with all mobile devices
 6. Smooth scrolling in each section.
+
+![Screen Shot](/repository/assets/employee.png?raw=true "Employee Data title")
