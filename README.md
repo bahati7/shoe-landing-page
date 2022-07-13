@@ -7,4 +7,4 @@
 5. Compatible with all mobile devices
 6. Smooth scrolling in each section.
 
-![Screen Shot](/repository/assets/employee.png?raw=true "Employee Data title")
+![Screen Shot](/design/destop.png?raw=true "Shoe Landing Page")
